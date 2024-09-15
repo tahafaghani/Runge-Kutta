@@ -39,6 +39,16 @@ This script simulates a two-body problem where two masses interact under gravita
 - Simulates the interaction between two masses in a gravitational field.
 - Plots the trajectories of the two bodies.
 
+## Visualization
+Both scripts produce plots that show the motion of the system over time:
+
+3DOF_Rung_kuttah.m: Plots the motion of the rotating bodies and sliding cart.
+vectorial_dynamics_R4.m: Plots the trajectories of the two masses under the influence of gravity.
+
+## Conclusion
+
+These simulations are designed to provide insights into solving dynamic systems using the Runge-Kutta numerical method. They are ideal for students and researchers working in mechanical engineering and physics who want to explore multi-degree-of-freedom systems and vectorial dynamics.
+
 ## How to Run the Codes
 
 1. Open MATLAB.
@@ -49,12 +59,4 @@ This script simulates a two-body problem where two masses interact under gravita
 3DOF_Rung_kuttah
 vectorial_dynamics_R4
 
-##Visualization
-Both scripts produce plots that show the motion of the system over time:
 
-### 3DOF_Rung_kuttah.m: Plots the motion of the rotating bodies and sliding cart.
-### vectorial_dynamics_R4.m: Plots the trajectories of the two masses under the influence of gravity.
-
-## Conclusion
-
-These simulations are designed to provide insights into solving dynamic systems using the Runge-Kutta numerical method. They are ideal for students and researchers working in mechanical engineering and physics who want to explore multi-degree-of-freedom systems and vectorial dynamics.
